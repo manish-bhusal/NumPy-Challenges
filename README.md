@@ -19,4 +19,4 @@ to help users improve their understanding of array and matrix manipulation in Py
 10. Create a 2-D array with values ranging from 0 to 15 and find the transpose of the array.
 
 # Note:
-*To access the solutions, navigate to the **challenge1.ipynb** file.*
+*To access the solutions, navigate to the [challenge1.ipynb](https://github.com/manish-bhusal/NumPy-Challenges/blob/main/challenge1.ipynb) file.*
